@@ -8,6 +8,16 @@ If you want, I can now guide you to:
 ✅ Hibernate validations
 ✅ Real-world mini project (optional)
 
+✨ Suggested Flow:
+✅ CRUD (Done)
+➡️ One-to-One Mapping
+➡️ One-to-Many Mapping
+➡️ Many-to-One Mapping
+➡️ Many-to-Many Mapping
+➡️ HQL Queries
+➡️ Caching
+➡️ Pagination
+
 
 Here's a comprehensive list of all major Hibernate topics you should cover, especially for interviews or real-world application development:
 
